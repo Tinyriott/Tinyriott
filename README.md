@@ -41,7 +41,5 @@
 
 ###
 [![Junho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tinyriott)](https://github.com/Tinyriott) 
-
-</a>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawnsgh97)](https://solved.ac/rlawnsgh97)
