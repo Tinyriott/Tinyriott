@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=개발%20뉴비%20입니다.&fontAlign=50&fontAlignY=50&fontColor=ffffff&reversal=false)
-
 <h3 align="center">NEWBIE DEVELOPER</h3>
 
 ###
